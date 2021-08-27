@@ -1,0 +1,25 @@
+
+/*Table style*/
+
+body{
+	border:10px solid #D1D9D9;
+	outline:5px solid #f0f0f2;
+	margin:20px;
+	padding:40px;
+	}
+h1{	
+  text-align: center;
+  }
+span{
+	font-weight: lighter;
+	}
+table {
+  border-collapse: collapse;
+  border: 1px solid #B2B1B9;
+  width: 100%;  
+  text-align: left;
+  text-indent:10px;
+  }
+th,td{
+  height: 30px;
+  }
